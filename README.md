@@ -3,3 +3,5 @@
 This is the used and referenced code for *Development in the Global Healthcare Industry*, by Arjun Naik.
 
 - All data is from World Bank, and the specific citations can be viewed in the paper.
+
+This repository also contains the subsequent paper, titled *Development in the Global Healthcare Industry*.
